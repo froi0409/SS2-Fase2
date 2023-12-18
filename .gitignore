@@ -1,0 +1,61 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyz
+*.pyw
+__init__.pyc
+__init__.pyo
+
+# IPython Notebooks
+.ipynb_checkpoints/
+
+# Virtual Environment
+venv/
+env/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Editor-specific files
+.vscode/
+*.sublime-workspace
+*.sublime-project
+*.pycharm
+*.pyproject
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+*.swo
+*~
+
+# Windows
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Logs and databases
+*.log
+*.sqlite
+*.db
+*.csv
+
+# Other
+*.bak
+*.swp
+*~
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
